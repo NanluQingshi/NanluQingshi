@@ -21,14 +21,9 @@ Hey there! I'm NanluQingshi - a front-end artisan exploring the vast universe of
 - **[Project Name]** - [Description of the project.](project-link)
 - **[Another Project]** - [Description with features and technologies used.](project-link)
 
-## 📝 Blog
+<!-- ## 📝 Blog
 Check out my latest articles on [My Blog](https://yourblog.com).
-
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NanluQingshi&show_icons=true&theme=radical)
-
-## 🌟 Contributions
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=NanluQingshi&theme=radical)
+-->
   
 ## 🎯 My Mission
 - To transform ideas into reality through code, while continuously learning and sharing knowledge with the world.
@@ -36,6 +31,8 @@ Check out my latest articles on [My Blog](https://yourblog.com).
 ## 🤝 Let's Collaborate!
 - I'm always on the lookout for exciting collaborations. Feel free to connect if you're interested in creating something amazing together!
 
+## 🏃🏻‍♀️ Status
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NanluQingshi&show_icons=true&theme=radical) ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=NanluQingshi&theme=radical)
 <!--
 **NanluQingshi/NanluQingshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
