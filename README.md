@@ -12,11 +12,11 @@ Hey there! I'm NanluQingshi - a front-end artisan exploring the vast universe of
 ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 
-## 📚 Education & Internships
-### - Education
+## 📚 Internships
+<!-- ### - Education
 - **Southwest University** -  (2019 - 2023)
 - **University of Science and Technology of China** - (2023 - )
-### - Internships  
+--> 
 - **Bilibili** - Front-end Intern (2024.6 - 2024.8) 
 - **JingDong** - Front-end Intern (2024.9 - )
 
