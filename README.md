@@ -13,13 +13,17 @@ Hey there! I'm NanluQingshi - a front-end artisan exploring the vast universe of
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 
 ## 📚 Education & Internships
-- **[Southwest University]** -  (2019 - 2023)
-- **[University of Science and Technology of China]** - (2023 - )
-- **[JingDong]** - Front-end Intern (2024.9 - )
+### - Education
+- **Southwest University** -  (2019 - 2023)
+- **University of Science and Technology of China** - (2023 - )
+### - Internships  
+- **Bilibili** - Front-end Intern (2024.6 - 2024.8) 
+- **JingDong** - Front-end Intern (2024.9 - )
 
 ## 🏭 Projects
-- **[Project Name]** - [Description of the project.](project-link)
+<!-- - **[Project Name]** - [Description of the project.](project-link)
 - **[Another Project]** - [Description with features and technologies used.](project-link)
+-->
 
 <!-- ## 📝 Blog
 Check out my latest articles on [My Blog](https://yourblog.com).
