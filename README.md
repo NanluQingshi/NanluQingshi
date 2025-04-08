@@ -18,7 +18,7 @@ Hey there! I'm NanluQingshi - a front-end artisan exploring the vast universe of
 - **University of Science and Technology of China** - (2023 - )
 --> 
 - **Bilibili** - Front-end Intern (2024.6 - 2024.8) 
-- **JingDong** - Front-end Intern (2024.9 - )
+- **JingDong** - Front-end Intern (2024.9 - 2024.12)
 
 ## 🏭 Projects
 <!-- - **[Project Name]** - [Description of the project.](project-link)
