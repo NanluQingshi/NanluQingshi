@@ -19,7 +19,7 @@ Hey there! I'm NanluQingshi - a front-end artisan exploring the vast universe of
 --> 
 - **Bilibili** - Front-end Intern (2024.6 - 2024.8) 
 - **JingDong** - Front-end Intern (2024.9 - 2024.12)
-- **MeiTuan**  - Front-end Intern (2025.2 - 2025.11)
+- **MeiTuan**  - Front-end Intern (2025.2 - 2026.1)
 
 ## 🏭 Projects
 <!-- - **[Project Name]** - [Description of the project.](project-link)
