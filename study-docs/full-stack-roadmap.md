@@ -79,22 +79,22 @@
 ### 目标
 能独立完成"前端页面 + 后端接口 + 数据库读写 + 部署上线"的完整链路。
 
-### 2.1 后端基础（Node.js 路线，和前端技术栈最近）
+### 2.1 后端基础（Java 路线）
 
 | 知识点 | 学习资源建议 | 预计时长 |
 |--------|------------|---------|
-| Node.js 核心（事件循环、模块、Stream） | Node.js官方文档 + 《深入浅出Node.js》 | 2周 |
-| Express 或 Fastify 框架 | 官方文档 + 跟着写 RESTful API | 1周 |
+| Spring Boot 核心（IOC、AOP、自动装配） | 官方文档 + 《Spring Boot 实战》 | 2周 |
+| Spring MVC（Controller、参数绑定、异常处理） | 官方文档 + 跟着写 RESTful API | 1周 |
 | 数据库：MySQL/PostgreSQL 基础 | 菜鸟教程 SQL 入门 + 实操 | 1周 |
-| ORM：Prisma 或 TypeORM | 官方文档，直接在项目中用 | 1周 |
-| 身份认证：JWT / Session | 写一个登录注册流程 | 3天 |
-| 接口设计：RESTful + 基本错误处理 | 无需专门学，边做边查 | - |
+| ORM：MyBatis-Plus 或 Spring Data JPA | 官方文档，直接在项目中用 | 1周 |
+| 身份认证：JWT + Spring Security 基础 | 写一个登录注册流程 | 3天 |
+| 接口设计：RESTful + 统一返回 + 全局异常处理 | 无需专门学，边做边查 | - |
 
 **TODO 清单**
-- [ ] 安装 Node.js 环境，跑通第一个 Hello World 服务
-- [ ] 用 Express 写一个 CRUD 接口（增删改查用户）
-- [ ] 连接本地 MySQL，用 Prisma 做数据读写
-- [ ] 实现 JWT 登录/注册，postman 调通
+- [ ] 用 Spring Initializr 创建第一个 Spring Boot 项目，跑通 Hello World
+- [ ] 用 Spring MVC 写一个 CRUD 接口（增删改查用户）
+- [ ] 连接本地 MySQL，用 MyBatis-Plus 做数据读写
+- [ ] 实现 JWT 登录/注册，Postman 调通
 - [ ] 上述功能整合成一个小项目（见 2.4）
 
 ### 2.2 运维/部署基础（不需要深，能用就行）
@@ -108,27 +108,27 @@
 | CI/CD 入门 | GitHub Actions 跑一个自动部署脚本 |
 
 **TODO 清单**
-- [ ] 在本地用 Docker Compose 跑起 Node.js + MySQL
+- [ ] 在本地用 Docker Compose 跑起 Spring Boot + MySQL
 - [ ] 注册一个云服务器（阿里云/腾讯云学生优惠），SSH 登录
 - [ ] 配置 Nginx，把前后端都反代出去
 - [ ] 写一个 GitHub Actions workflow，push 后自动部署
 
-### 2.3 TypeScript 深化（全栈必备）
-
-前端校招生通常有 TS 基础，这里重点是后端场景的 TS 使用。
+### 2.3 Java 后端进阶基础
 
 **TODO 清单**
-- [ ] 学会 TS 的 interface / type / generic 在后端的应用
-- [ ] 理解 Zod / class-validator 做接口参数校验
-- [ ] 后端项目全程用 TypeScript，不用 JS
+- [ ] 理解 Spring Boot 的依赖注入和 Bean 生命周期
+- [ ] 学会用 Hibernate Validator 做接口参数校验（`@NotNull`、`@Valid` 等）
+- [ ] 学会统一异常处理（`@ControllerAdvice` + `@ExceptionHandler`）
+- [ ] 了解 Java 泛型在接口返回值封装中的应用（统一 `Result<T>` 响应体）
 
 ### 2.4 阶段一项目：做一个完整的 Todo / 博客系统
 
 **要求**
 - 前端：React/Vue（你熟悉的）
-- 后端：Node.js + Express/Fastify
-- 数据库：PostgreSQL（比 MySQL 更现代）
-- 认证：JWT
+- 后端：Java + Spring Boot
+- 数据库：MySQL（或 PostgreSQL）
+- ORM：MyBatis-Plus 或 JPA
+- 认证：JWT + Spring Security
 - 部署：Docker Compose + 云服务器
 - 加分项：接入一个 AI 功能（比如用 Claude API 自动生成摘要）
 
@@ -150,11 +150,11 @@
 ### 3.1 后端进阶
 
 **TODO 清单**
-- [ ] 学习消息队列基础：用 Redis + BullMQ 做异步任务队列
-- [ ] 学习缓存策略：Redis 缓存接口数据，了解缓存穿透/雪崩
+- [ ] 学习消息队列基础：用 Redis + Spring Task 或 RabbitMQ 做异步任务
+- [ ] 学习缓存策略：Spring Cache + Redis，了解缓存穿透/雪崩
 - [ ] 了解微服务 vs 单体架构的取舍（不用深，知道什么时候用什么）
 - [ ] 学习接口限流、幂等性设计
-- [ ] 学习单元测试 + 集成测试（Vitest / Jest）
+- [ ] 学习单元测试 + 集成测试（JUnit 5 + Mockito）
 
 ### 3.2 数据库进阶
 
@@ -198,7 +198,7 @@
 | Prompt Engineering | 系统提示词设计，few-shot，思维链 |
 | RAG（检索增强生成） | 向量数据库（pgvector/Chroma）+ 文档切分 + 语义检索 |
 | Agent 设计 | 工具调用链、ReAct 模式、Multi-Agent 协作 |
-| AI 应用框架 | LangChain / LlamaIndex / Vercel AI SDK |
+| AI 应用框架 | Spring AI / LangChain4j（Java 生态首选）|
 | 评估与可观测性 | LLM 应用的 tracing（LangSmith、Arize） |
 
 **TODO 清单**
@@ -206,7 +206,7 @@
 - [ ] 用 Claude API 实现一个流式对话接口（后端 + 前端）
 - [ ] 学习 Tool Use（函数调用），让 AI 能查数据库/调接口
 - [ ] 实现一个简单的 RAG：上传 PDF，能对话问答
-- [ ] 用 LangChain 或原生 API 实现一个 ReAct Agent
+- [ ] 用 Spring AI 或 LangChain4j 实现一个 ReAct Agent
 - [ ] 做一个完整的 AI 应用项目（见下方项目建议）
 - [ ] 了解 AI 应用的安全问题：Prompt Injection、数据泄露
 
