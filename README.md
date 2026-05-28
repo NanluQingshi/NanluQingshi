@@ -1,54 +1,74 @@
-# 🚀 Welcome to My Code Planet! 🌏
-Hey there! I'm NanluQingshi - a front-end artisan exploring the vast universe of technology. ![Profile Views](https://komarev.com/ghpvc/?username=NanluQingshi)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=NanluQingshi&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Front-end%20Engineer%20%7C%20Explorer&descSize=18&descAlignY=55&descAlign=50"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+NanluQingshi+%F0%9F%91%8B;Front-end+Engineer+%40+Big+Tech;Vue+%7C+React+%7C+TypeScript+Enthusiast;Always+learning%2C+always+shipping+%F0%9F%9A%80;Open+to+new+opportunities+%E2%9C%A8)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=NanluQingshi&style=flat-square&color=58A6FF&label=Profile+Views)
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![AJAX](https://img.shields.io/badge/ajax-%23000000.svg?style=flat-square&logo=ajax&logoColor=white)
-![Vue](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=flat-square&logo=vue.js&logoColor=white)
-![Element Plus](https://img.shields.io/badge/element%20plus-%23007FFF.svg?style=flat-square&logo=element&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 
-## 📚 Internships
-<!-- ### - Education
-- **Southwest University** -  (2019 - 2023)
-- **University of Science and Technology of China** - (2023 - )
---> 
-- **Bilibili** - Front-end Intern (2024.6 - 2024.8) 
-- **JingDong** - Front-end Intern (2024.9 - 2024.12)
-- **MeiTuan**  - Front-end Intern (2025.2 - 2026.1)
+<div align="center">
 
-## 🏭 Projects
-<!-- - **[Project Name]** - [Description of the project.](project-link)
-- **[Another Project]** - [Description with features and technologies used.](project-link)
--->
+**Frontend**
 
-<!-- ## 📝 Blog
-Check out my latest articles on [My Blog](https://yourblog.com).
--->
-  
-## 🎯 My Mission
-- To transform ideas into reality through code, while continuously learning and sharing knowledge with the world.
-  
-## 🤝 Let's Collaborate!
-- I'm always on the lookout for exciting collaborations. Feel free to connect if you're interested in creating something amazing together!
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind,vite&theme=dark)](https://skillicons.dev)
 
-## 🏃🏻‍♀️ Status
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NanluQingshi&show_icons=true&theme=radical) ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=NanluQingshi&theme=radical)
-<!--
-**NanluQingshi/NanluQingshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend & Tooling**
 
-Here are some ideas to get you started:
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,java,webpack,git,vscode,figma&theme=dark)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🏢 Internship Experience
+
+<div align="center">
+
+| &nbsp; | Company | Role | Period |
+|:---:|---------|------|:------:|
+| 🟡 | **MeiTuan** | Front-end Engineer Intern | 2025.2 — 2026.1 |
+| 🔵 | **JD.com (京东)** | Front-end Engineer Intern | 2024.9 — 2024.12 |
+| 🌸 | **Bilibili (哔哩哔哩)** | Front-end Engineer Intern | 2024.6 — 2024.8 |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NanluQingshi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanluQingshi&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NanluQingshi&theme=radical&hide_border=true"/>
+</div>
+
+---
+
+## 🐍 Contribution
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NanluQingshi/NanluQingshi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NanluQingshi/NanluQingshi/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NanluQingshi/NanluQingshi/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+*Transforming ideas into reality through code* ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
