@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write   # ← 加这两行
+
 jobs:
   generate:
     runs-on: ubuntu-latest
