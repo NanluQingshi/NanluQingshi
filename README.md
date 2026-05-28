@@ -43,17 +43,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NanluQingshi&theme=radical"/>
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NanluQingshi&theme=radical"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NanluQingshi&theme=radical"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NanluQingshi&theme=radical&utcOffset=8"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NanluQingshi&theme=radical&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NanluQingshi&theme=radical"/>
 </div>
 
 ---
