@@ -10,6 +10,15 @@
 
 ---
 
+## 👋 About Me
+
+- 🔭 目前在做 **全栈研发**，方向是 **财务 + AI 应用**
+- 🌱 正在深入 **Java 微服务 / TypeScript / LLM 应用工程化**
+- 💡 关注 **RAG、Agent、Prompt Engineering** 在业务中的落地
+- ⚡ Fun fact: 用 AI 放大自己，比担心被 AI 替代更有意义
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -25,6 +34,13 @@
 **DevOps & Tooling**
 
 [![Tooling Skills](https://skillicons.dev/icons?i=docker,kubernetes,nginx,webpack,git,vscode,figma&theme=dark)](https://skillicons.dev)
+
+**AI & LLM**
+
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logo=openai&logoColor=white)
+![Agent](https://img.shields.io/badge/Agent-7B68EE?style=flat-square&logo=anthropic&logoColor=white)
+![Prompt_Engineering](https://img.shields.io/badge/Prompt_Engineering-00B2FF?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C95?style=flat-square&logo=langchain&logoColor=white)
 
 </div>
 
@@ -52,7 +68,7 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NanluQingshi/NanluQingshi/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
+ 
 ---
 
 <div align="center">
