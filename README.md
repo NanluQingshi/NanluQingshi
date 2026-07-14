@@ -12,10 +12,23 @@
 
 ## 👋 About Me
 
-- 🔭 目前在做 **全栈研发**，方向是 **财务 + AI 应用**
-- 🌱 正在深入 **Java 微服务 / TypeScript / LLM 应用工程化**
-- 💡 关注 **RAG、Agent、Prompt Engineering** 在业务中的落地
-- ⚡ Fun fact: 用 AI 放大自己，比担心被 AI 替代更有意义
+- 🔭 Building **Finance + AI applications** as a Full-Stack Engineer, bridging traditional enterprise systems with cutting-edge LLM technologies
+- 🌱 Deep diving into **Java Microservices**, **TypeScript**, and **LLM Application Engineering** to create production-ready AI solutions
+- 💡 Architecting **RAG pipelines**, **AI Agents**, and **Prompt Engineering** systems that deliver measurable business value
+- 🚀 Open to new opportunities — let's build something impactful together!
+- ⚡ Fun fact: Using AI to amplify human capabilities beats worrying about AI replacement
+
+---
+
+## 📫 Get in Touch
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nlqs@mail.ustc.edu.cn)
+
+<!-- [![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@NanluQingshi) -->
+
+</div>
 
 ---
 
@@ -33,9 +46,11 @@
 
 **DevOps & Tooling**
 
-[![Tooling Skills](https://skillicons.dev/icons?i=docker,kubernetes,nginx,webpack,git,vscode,figma&theme=dark)](https://skillicons.dev)
+[![Tooling Skills](https://skillicons.dev/icons?i=docker,kubernetes,nginx,webpack,git,vscode,figma,githubactions,linux,postman,jest&theme=dark)](https://skillicons.dev)
 
 **AI & LLM**
+
+[![AI & LLM Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark)](https://skillicons.dev)
 
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logo=openai&logoColor=white)
 ![Agent](https://img.shields.io/badge/Agent-7B68EE?style=flat-square&logo=anthropic&logoColor=white)
@@ -45,6 +60,20 @@
 </div>
 
 ---
+
+<!-- ## 🚀 Featured Projects
+
+<div align="center">
+
+| Project                                      | Description                                             | Tech Stack                        |
+| -------------------------------------------- | ------------------------------------------------------- | --------------------------------- |
+| [Project 1](https://github.com/NanluQingshi) | LLM-powered financial analysis tool for enterprise      | Java, Spring Boot, Vue, LangChain |
+| [Project 2](https://github.com/NanluQingshi) | RAG system for intelligent document processing          | Python, LangChain, Elasticsearch  |
+| [Project 3](https://github.com/NanluQingshi) | Microservices architecture for scalable AI applications | Go, gRPC, Kubernetes, Kafka       |
+
+</div>
+
+--- -->
 
 ## 📊 GitHub Stats
 
@@ -68,12 +97,12 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NanluQingshi/NanluQingshi/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
- 
+
 ---
 
 <div align="center">
 
-*Transforming ideas into reality through code* ✨
+_Transforming ideas into reality through code_ ✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
