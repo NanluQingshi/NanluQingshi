@@ -50,12 +50,34 @@ and thoughtful product experiences.
 
 ---
 
-## Engineering Toolbox
+## Tech Stack & Tools
 
-- **Product UI** — TypeScript, React, Vue, WeChat Mini Programs, Vite, Webpack, Tailwind CSS
-- **Services & Data** — Node.js, Java, Spring Boot, Go, Python, PostgreSQL, MySQL, Redis
-- **AI Applications** — RAG, agents, tool calling, prompt engineering, workflow automation
-- **Delivery** — Docker, Linux, Nginx, GitHub Actions, testing
+<div align="center">
+
+**Frontend & Product**
+
+[![Frontend and product technologies](https://skillicons.dev/icons?i=ts,react,vue,tailwind,vite,webpack&theme=light)](https://skillicons.dev)
+
+**Backend & Data**
+
+[![Backend and data technologies](https://skillicons.dev/icons?i=nodejs,java,spring,go,py,postgres,mysql,redis&theme=light)](https://skillicons.dev)
+
+**Infrastructure & Workflow**
+
+[![Infrastructure and workflow tools](https://skillicons.dev/icons?i=docker,linux,nginx,githubactions,git,github,vscode,postman&theme=light)](https://skillicons.dev)
+
+**AI Application Engineering**
+
+![LLM Applications](https://img.shields.io/badge/LLM_Applications-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0A66C2?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-7B61FF?style=flat-square)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-0F766E?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square)
+![Evaluation & Observability](https://img.shields.io/badge/Evaluation_%26_Observability-CA8A04?style=flat-square)
+
+<sub>Also experienced with WeChat Mini Programs, SSE streaming, testing, workflow automation, and production observability.</sub>
+
+</div>
 
 ---
 
