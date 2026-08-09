@@ -100,6 +100,17 @@ I'm interested in building production-ready AI applications where product experi
 
 <div align="center">
 
+![NanluQingshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanluQingshi&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NanluQingshi&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/NanluQingshi/NanluQingshi/output/github-contribution-grid-snake-dark.svg" alt="NanluQingshi's contribution snake" />
+</div>
+
+<div align="center">
+
 ### Let's build something useful.
 
 If you'd like to discuss engineering, AI applications, or a potential collaboration,<br>
